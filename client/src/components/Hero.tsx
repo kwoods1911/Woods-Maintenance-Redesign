@@ -30,7 +30,7 @@ export default function Hero() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <Link href="/services">
-              <Button size="lg" className="bg-white text-primary hover:bg-gray-100">
+              <Button size="lg" className="bg-white text-primary hover:bg-white/10">
                 Explore Services
               </Button>
             </Link>

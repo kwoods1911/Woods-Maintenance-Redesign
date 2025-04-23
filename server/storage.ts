@@ -84,7 +84,14 @@ export class MemStorage implements IStorage {
         description: "Comprehensive seasonal cleanups including leaf removal, debris clearing, and garden bed preparation.",
         category: "landscaping",
         imageUrl: "https://images.unsplash.com/photo-1437240443155-4429a25183e5"
+      },
+      {
+        name: "Snow Removal",
+        description: "Plowing Snowfrom driveways and side walks",
+        category: "snowremoval",
+        imageUrl: "https://images.unsplash.com/photo-1437240443155-4429a25183e5"
       }
+
     ];
     
     const paintingServices = [

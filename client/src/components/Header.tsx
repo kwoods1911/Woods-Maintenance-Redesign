@@ -31,7 +31,7 @@ export default function Header() {
                 <path d="M5 8h14" />
                 <path d="M5 16h14" />
               </svg>
-              <span className="text-xl font-bold text-primary">GreenLawn</span>
+              <span className="text-xl font-bold text-primary">Woods Maintenance</span>
             </a>
           </Link>
           
